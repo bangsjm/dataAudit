@@ -7,7 +7,7 @@
 （4）node -v        显示安装的nodejs版本<br>
 （5）npm -v        显示安装的npm版本<br>
 
-2.安装npm
+2.安装Npm
 ========================================
 
 （1）先配置npm的全局模块的存放路径以及cache的路径<br>
@@ -17,20 +17,20 @@
       npm config set cache "C:\Program Files\nodejs\node_cache"<br>
 （3）进入环境变量对话框，在系统变量下新建" NODE_PATH"，输入” C:\Program Files\nodejs\node_global\node_modules“。<br>
 
-3.安装express
+3.安装Express
 =========================================
 （1）npm -v<br>
 （2）npm install -g express-generator<br>
 （3）express --version<br>
 
 
-4.安装web3.js
+4.安装Web3.js
 =========================================
 （1）npm -v<br>
 （2）npm install web3<br>
 
 
-5.安装ganache
+5.安装Ganache
 ===========================================
 （1）下载地址为：https://trufflesuite.com/ganache//<br>
 （2）使用安装包安装即可。<br>
@@ -44,4 +44,8 @@
 （4）在客户端输入 “ping”，出现“PONG”，即证明连接成功<br>
 
 
-
+7.配置环境
+===============================
+（1）运行Ganache<br>
+（2）选取区块链两个账号的ADRESS和PRIVATE KEY<br>
+（3）
