@@ -53,7 +53,7 @@
 （4）npm install -g multer <br>
 
 
-7.配置环境
+8.配置环境
 ===============================
 （1）运行Ganache<br>
 （2）选取两个区块链账号的ADRESS和PRIVATE KEY<br>
@@ -66,7 +66,7 @@
 （6）将blockchain.js的地址替换为步骤（5）中的地址，如下图所示<br>
 ![image](https://user-images.githubusercontent.com/31236015/223607941-80804b3a-9a13-4d9b-9de9-047963e5d0a1.png)
 
-8.运行系统
+9.运行系统
 =======================================
 （1）打开Code文件夹所在目录，输入node demo.js<br>
 （2）打开Vue/audit文件夹所在目录，首先运行 npm install ，然后运行npm run dev
