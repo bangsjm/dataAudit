@@ -27,7 +27,7 @@
 4.安装Web3.js
 =========================================
 （1）npm -v<br>
-（2）npm install web3<br>
+（2）npm install -g web3 <br>
 
 
 5.安装Ganache
