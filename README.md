@@ -16,7 +16,8 @@
       npm config set prefix "C:\Program Files\nodejs\node_global"<br>
       npm config set cache "C:\Program Files\nodejs\node_cache"<br>
 （3）进入环境变量对话框，在系统变量下新建" NODE_PATH"，输入” C:\Program Files\nodejs\node_global\node_modules“。<br>
-（4）在用户变量的Path下新增 C:\Program Files\nodejs\node_global<br>
+（4）在系统变量的Path下新增C:\Program Files\nodejs
+（5）在用户变量的Path下新增 C:\Program Files\nodejs\node_global<br>
 
 3.安装Express
 =========================================
