@@ -69,5 +69,5 @@
 8.运行系统
 =======================================
 （1）打开Code文件夹所在目录，输入node demo.js<br>
-（2）打开Vue文件夹所在目录，首先运行 npm install ，然后运行npm run dev
+（2）打开Vue/audit文件夹所在目录，首先运行 npm install ，然后运行npm run dev
 
