@@ -43,6 +43,13 @@
 （3）双击redis-cli.exe启动客户端连接服务端<br>
 （4）在客户端输入 “ping”，出现“PONG”，即证明连接成功<br>
 
+7.安装依赖库
+================================================
+（1）npm install -g bloom-redis --save <br>
+（2）npm install -g redis --save <br>
+（3）npm install -g crypto-js <br>
+（4）npm install -g multer <br>
+
 
 7.配置环境
 ===============================
@@ -59,6 +66,6 @@
 
 8.运行系统
 =======================================
-（1）打开Code文件夹所在目录下的demo.js，输入node demo.js
+（1）打开Code文件夹所在目录下的test.js，输入node demo.js<br>
 （2）打开Vue文件夹所在目录，首先运行 npm install ，然后运行npm run dev
 
