@@ -61,6 +61,8 @@
 ![image](https://user-images.githubusercontent.com/31236015/223599912-e86db708-39c5-4e37-8d25-e9f0334619d0.png)<br>
 （4）audit.js的this.from，this.to，this.keyFrom，this.keyTo替换为选取的区块链账号和私钥，如下图：<br>
 ![image](https://user-images.githubusercontent.com/31236015/223608262-cfa47b63-9bc6-4952-a38f-63c21e7685ba.png)<br>
+![image](https://user-images.githubusercontent.com/31236015/224356979-214c7934-3133-44d5-a166-4685d762004e.png)<br>
+
 （5）在Ganache查看区块链的运行端口,如下图为HTTP://localhost:7545<br>
 ![image](https://user-images.githubusercontent.com/31236015/223607684-0e596e1f-d79c-47a7-86f7-5433d2a1d521.png)<br>
 （6）将blockchain.js的地址替换为步骤（5）中的地址，如下图所示<br>
